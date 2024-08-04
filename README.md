@@ -2,15 +2,15 @@
 
 ## Java
 
-> - [Instalação  do JDK 8 ou superior](https://github.com/carloseduardonit/manual/blob/main/Java/INSTALA%C3%87%C3%83O_DO_JDK.md),
+> - [Instalação  do JDK 8 ou superior](https://github.com/carloseduardonit/manual/blob/main/Java/INSTALA%C3%87%C3%83O_DO_JDK.md);
 
 ## MySQL
 
-> - [Instalação o servidor MySQL](https://github.com/carloseduardonit/manual/blob/4dbbd4fb95e92e100c74e9b8a484512cc6021c0a/MySQL/INSTALA%C3%87%C3%83O_DO_SERVIDOR_MYSQL.md),
+> - [Instalação o servidor MySQL](https://github.com/carloseduardonit/manual/blob/4dbbd4fb95e92e100c74e9b8a484512cc6021c0a/MySQL/INSTALA%C3%87%C3%83O_DO_SERVIDOR_MYSQL.md);
 
 ## IDe's
 
-> - [Instalação o NetBens e VsCode](https://github.com/carloseduardonit/manual/blob/main/IDEs/INSTALA%C3%87%C3%83O_DA_IDE.md),
+> - [Instalação o NetBens e VsCode](https://github.com/carloseduardonit/manual/blob/main/IDEs/INSTALA%C3%87%C3%83O_DA_IDE.md);
 
 #### :writing_hand: Este documento e escrito em:
 
